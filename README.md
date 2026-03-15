@@ -47,3 +47,5 @@ It provides basic mathematics, linear algebra, calculus, trigonometry, algebra, 
 
 ---
 
+`bash
+   pip install git+https://github.comSuhoPro777/math_lib.git
