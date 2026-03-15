@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: math_lib
+Version: 0.1
+Summary: A comprehensive math library for various mathematical operations.
+Author: Lee Suho
+Author-email: safarovjavlonbek74@example.com
+Requires-Python: >=3.8
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-python
+Dynamic: summary
