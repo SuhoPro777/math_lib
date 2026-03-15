@@ -47,9 +47,3 @@ It provides basic mathematics, linear algebra, calculus, trigonometry, algebra, 
 
 ---
 
-## Installation
-
-You can install directly from GitHub:
-
-`bash
-pip install git+https://github.com/yourusername/math_lib.git
